@@ -22,7 +22,7 @@ Individually, develop high level notes on who you met, what you learnt and poten
     * what [newsletters, mailing lists](https://forms.gle/gn7wR2Eaxbv5g1BF9) or future events should we invite them to?
     * [process the contacts](../events/process-contacts.md)
 2. What could the event and our participation in it mean for:
-    * [membership](../member-relations/)
+    * [members](../member-relations/) and [membership growth](../membership-growth/)
     * [codebase stewardship](../codebase-stewardship/)
     * the [Standard for Public Code](https://standard.publiccode.net)
     * developing our community
